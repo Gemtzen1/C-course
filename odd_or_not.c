@@ -14,6 +14,6 @@ if(number%2==0)
 else
     {
       printf("number is odd %d\n",number);
-}
+    }
       return 0;
 }
